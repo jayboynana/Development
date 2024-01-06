@@ -14,3 +14,9 @@ while i < n - 1:
         break
     i += 1
 print(*nums)
+'''
+git add .#添加所有更改过的文件放入暂存区
+git add <指定文件名>
+git commit -m ' 提交暂存区到仓库区'
+git push origin <指定分支>
+'''
