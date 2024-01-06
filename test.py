@@ -14,5 +14,3 @@ while i < n - 1:
         break
     i += 1
 print(*nums)
-print("test============")
-print("test============")
