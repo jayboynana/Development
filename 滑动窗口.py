@@ -40,7 +40,8 @@ def minSubArrayLen(target, nums):
         right += 1
     return minLen
 
-
+def t():
+    pass
 if __name__ == "__main__":
     target = 7
     nums = [2, 3, 1, 2, 4, 3]
