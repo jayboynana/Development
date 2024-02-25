@@ -1,4 +1,6 @@
 # P1421 小玉买文具
+# 成功ac
+
 import math
 
 a,b = map(int,input().split())
